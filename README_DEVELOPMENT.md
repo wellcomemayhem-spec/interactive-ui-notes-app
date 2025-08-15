@@ -31,5 +31,5 @@
   <!-- This command runs the tests defined in your project. -->
 
 ## Folder Structure
-- `src/`: Contains all the source code.
-- `public/`: Contains static files like `index.html`.
+- `src/`: Contains all the source code, including components and utilities for the application.
+- `public/`: Contains static files like `index.html`, which serves as the entry point for the application.
