@@ -14,18 +14,21 @@
   ```bash
   npm start
   ```
+  # This command starts the application on the default port (3000).
 
 ## Building the Application
 - To build the application for production, use:
   ```bash
   npm run build
   ```
+  # This command creates an optimized production build.
 
 ## Testing
 - To run tests, use:
   ```bash
   npm test
   ```
+  # This command runs the tests defined in your project.
 
 ## Folder Structure
 - `src/`: Contains all the source code.
